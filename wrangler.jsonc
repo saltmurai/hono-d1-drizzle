@@ -4,7 +4,8 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-07-26",
   "compatibility_flags": [
-    "nodejs_compat"
+    "nodejs_compat",
+    "nodejs_compat_populate_process_env"
   ],
   // "kv_namespaces": [
   //   {
@@ -24,5 +25,5 @@
       "database_name": "gongshin-db",
       "database_id": "9ed5928a-f6c1-4209-bbf1-0e2bff731e89"
     }
-  ],
+  ]
 }
